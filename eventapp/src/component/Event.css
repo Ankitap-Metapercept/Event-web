@@ -1,0 +1,64 @@
+.event
+{
+    background-image: url(../Images/testimonial-1.png);
+    background-color: transparent;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.Head-Section
+{
+    padding-left: 30px;
+}
+.Head-Section h1
+{
+font-family: Inter, sans-serif;
+font-size: 56px;
+font-weight: 600;
+line-height: 68.32px;
+color: rgb(51, 51, 105);
+}
+.Head-Section button
+{
+    background-color:rgb(248, 102, 158); 
+    color: white;
+    border: none;
+    font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(255, 255, 255);
+padding: 20px;
+}
+
+span 
+{
+font-family: Inter, sans-serif;
+font-size: 56px;
+font-weight: 700;
+line-height: 68.32px;
+color: rgb(248, 102, 158);
+}
+
+.card h3{
+font-family: Inter, sans-serif;
+font-size: 21px;
+font-weight: 600;
+
+color: rgb(51, 51, 105);
+}
+.card p{
+    font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(112, 112, 112);
+}
+
+.card2
+{
+    padding-top: 200px;
+}
+.card-3
+{
+    padding-top: 5px;
+}
