@@ -96,7 +96,7 @@ export default function Footer() {
                       placeholder="Email address"
                       className="w-100 mb-2 p-3"
                     ></input>
-                    <button type="button" className="w-100">
+                    <button type="button" className=" p-3 w-100">
                       Subscribe
                     </button>
                   </form>

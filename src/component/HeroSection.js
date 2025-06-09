@@ -4,37 +4,34 @@ import './HeroSection.css';
 
 export default function HeroSection() {
   return (
-   <section className='HeroSection pt-10 pb-0'>
-    <div className='container py-5 '>
-    <div className='row'>
-    <div className='col-12 col-md-6 '>
-      <div className='Heading'>
-        
-        <h1>World's Biggest 2023 Conference </h1>
-        <p className='text-white'>
-          Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur.
-        </p>
-      </div>
-    </div>
-    <div className='col-12 col-md-6 text-center Image-Section'>
-      <img src={HeroImage} alt="Hero" className='img-fluid Hero-image' />
-    </div>
-  </div>
-</div>
-    {/* <div className='container'>
-      <div className='banner-in pt-6'>
-        <div className='row align-items-end'>
-          <div className='col-lg-7 mb-10'>
-            <div className='banner-context text-lg-start text-center'>
-              <h4>big events 2024</h4>
-              <div className='selector4 display-content-center'></div>
+   <>
+<section className='banner pb-5 sm:overflow-hidden'>
+    <div className='container '>
+      <div className='banner-inner'>
+        <div className='row '>
+          <div className='banner-content col-lg-7'>
+            <div className=' text-lg-start text-align-center text-center'>
+              <h4 className='theme text-white'>Big Events 2022</h4>
+              <div className='selector4 '>
+                <h1  className='text-white'><span className='text-white'>Big Events 2023</span></h1>
+
+              </div>
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+          </div>
+
+          <div className='col-lg-5'>
+            <div className='banner-image w-100'>
+              <img src={HeroImage} alt='heroimage' className='img-fluid w-100'/>
             </div>
           </div>
         </div>
+
       </div>
-    </div> */}
+    </div>
+
    </section>
+   </>
 
   );
 }

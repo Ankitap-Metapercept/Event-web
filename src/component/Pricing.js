@@ -46,8 +46,8 @@ export default function Pricing() {
                       Private Access
                     </li>
                   </ul>
-                  <div className="pricing-btn mb-0">
-                    <button type="button">Purchase</button>
+                  <div className="pricing-btn mb-1">
+                    <button type="button" className="p-2">Purchase</button>
                   </div>
                   <small className="pt-3">
                     *please read our team condition and before order ticket
@@ -89,8 +89,8 @@ export default function Pricing() {
                       Private Access
                     </li>
                   </ul>
-                  <div className="pricing-btn mb-0">
-                    <button type="button">Purchase</button>
+                  <div className="pricing-btn mb-1">
+                    <button type="button" className="p-2">Purchase</button>
                   </div>
                   <small className="pt-3 text-white">
                     *please read our team condition and before order ticket
@@ -132,8 +132,8 @@ export default function Pricing() {
                       Private Access
                     </li>
                   </ul>
-                  <div className="pricing-btn mb-0">
-                    <button type="button">Purchase</button>
+                  <div className="pricing-btn mb-1">
+                    <button type="button" className="p-2" >Purchase</button>
                   </div>
                   <small className="pt-3">
                     *please read our team condition and before order ticket

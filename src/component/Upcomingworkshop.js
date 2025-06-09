@@ -43,22 +43,30 @@ export default function Upcomingworkshop() {
                         Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
                         dapibus leo.
                       </p>
-                      <ul className="schedual-item d-flex justify-content-lg-start justify-content-center">
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className="theme pe-1">Exploration Hall</span>
-                        </li>
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className=" pe-1">Hall 01</span>
-                        </li>
-                      </ul>
+                      <div className="d-flex gap-3">
+                        <div className="d-flex gap-1">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>Exploration Hall</p>
+                          </div>
+                        </div>
+                        <div className="d-flex">
+                          <div className="gap-1">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>hall 01</p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                   <div className="col-lg-3 d-flex">
@@ -75,7 +83,7 @@ export default function Upcomingworkshop() {
 
               <div className="about-image mb-4 bg-white">
                 <div className="row">
-                  <div className="col-lg-3 d-flex">
+                  <div className="col-lg-3 d-flex mt-3">
                     <div className="about-content text-center text-lg-start py-8 p-4 bg-theme w-100">
                       <small className="text-white mb-3">
                         8:00 Am - 9:00 AM
@@ -93,22 +101,30 @@ export default function Upcomingworkshop() {
                         Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
                         dapibus leo.
                       </p>
-                      <ul className="schedual-item d-flex justify-content-lg-start justify-content-center">
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className="theme pe-1">Exploration Hall</span>
-                        </li>
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className=" pe-1">Hall 01</span>
-                        </li>
-                      </ul>
+                      <div className="d-flex gap-3">
+                        <div className="d-flex gap-1">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>Exploration Hall</p>
+                          </div>
+                        </div>
+                        <div className="d-flex">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>hall 01</p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                   <div className="col-lg-3 d-flex">
@@ -147,22 +163,30 @@ export default function Upcomingworkshop() {
                         Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
                         dapibus leo.
                       </p>
-                      <ul className="schedual-item d-flex justify-content-lg-start justify-content-center">
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className="theme pe-1">Exploration Hall</span>
-                        </li>
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className=" pe-1">Hall 01</span>
-                        </li>
-                      </ul>
+                     <div className="d-flex gap-3">
+                        <div className="d-flex gap-1">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>Exploration Hall</p>
+                          </div>
+                        </div>
+                        <div className="d-flex">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>hall 01</p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                   <div className="col-lg-3 d-flex">
@@ -197,22 +221,30 @@ export default function Upcomingworkshop() {
                         Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
                         dapibus leo.
                       </p>
-                      <ul className="schedual-item d-flex justify-content-lg-start justify-content-center">
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className="theme pe-1">Exploration Hall</span>
-                        </li>
-                        <li className="d-flex align-items-center me-4">
-                          <HiOutlineLocationMarker
-                            size={25}
-                            className="Theme1"
-                          />
-                          <span className=" pe-1">Hall 01</span>
-                        </li>
-                      </ul>
+                      <div className="d-flex gap-3">
+                        <div className="d-flex gap-1">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>Exploration Hall</p>
+                          </div>
+                        </div>
+                        <div className="d-flex">
+                          <div className="">
+                            <HiOutlineLocationMarker
+                              size={25}
+                              className="Theme1"
+                            />
+                          </div>
+                          <div className="">
+                            <p>hall 01</p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                   <div className="col-lg-3 d-flex">
