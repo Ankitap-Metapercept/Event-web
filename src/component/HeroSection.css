@@ -1,0 +1,34 @@
+.HeroSection
+{
+     background-color: #9E3E7A;
+     height: 763px;
+}
+
+
+
+.Heading h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 250px;
+  font-family: Inter, sans-serif;
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 85.4px;
+  color: rgb(255, 255, 255);
+}
+.Heading h3{
+    margin-bottom: 50px;
+}
+
+.Heading p {
+  font-size: 1.1rem;
+  margin-bottom: 50px;
+}
+
+.Hero-image
+{
+    height: 500px;
+    width: 700px;
+    margin-top: 30px;
+    margin-left: 100px;
+}

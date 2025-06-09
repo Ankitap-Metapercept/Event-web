@@ -1,0 +1,146 @@
+.bg-theme
+{
+    background-color: #F8669E;
+
+}
+
+.section1 h1{
+ font-family: Inter, sans-serif;
+font-size: 56px;
+font-weight: 600;
+line-height: 67.2px;
+color: rgb(51, 51, 105);
+}
+.block-2 h3{
+    font-family: Inter, sans-serif;
+font-size: 21px;
+font-weight: 600;
+line-height: 25.62px;
+color: rgb(51, 51, 105);
+}
+
+.block-2 p{
+font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(112, 112, 112);
+}
+
+.block-3 h3{
+
+font-family: Inter, sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 21.96px;
+color: rgb(248, 102, 158);
+}
+.block-3 p{
+    font-family: Poppins, sans-serif;
+font-size: 13.6px;
+font-weight: 400;
+line-height: 20.4px;
+color: rgb(112, 112, 112);
+}
+
+
+h6
+{font-family: Inter, sans-serif;
+font-size: 18px !important;
+font-weight: 600;
+line-height: 21.96px;
+
+}
+
+.Theme
+{
+font-family: Inter, sans-serif;
+font-size: 21px;
+font-weight: 600;
+line-height: 25.62px;
+color: rgb(248, 102, 158);
+}
+
+.section-title
+{
+    position: relative;
+    z-index: 1;
+}
+
+.event-schedule h2
+{
+    font-family: Inter, sans-serif;
+font-size: 56px;
+font-weight: 600;
+line-height: 67.2px;
+color: rgb(51, 51, 105);
+}
+.about-content h4{
+    font-family: Inter, sans-serif;
+font-size: 21px;
+font-weight: 600;
+line-height: 25.62px;
+color: rgb(255, 255, 255);
+}
+
+.about-content1
+{
+    background-color: #C83F74;
+}
+.about-content small{
+    font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(112, 112, 112);
+}
+.schedual-content h4{
+    font-family: Inter, sans-serif;
+font-size: 21px;
+font-weight: 600;
+line-height: 25.62px;
+color: rgb(51, 51, 105);
+}
+
+.schedual-content p{
+    font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(112, 112, 112);
+}
+.schedual-item span{
+font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(51, 51, 105);
+}
+
+.Theme1
+{
+    color: #F8669E;
+}
+.Theme{
+    font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(51, 51, 105);
+}
+
+.speaker-content h6{
+    font-family: Inter, sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 21.96px;
+color: rgb(248, 102, 158);
+}
+.speaker-content small{
+    font-family: Poppins, sans-serif;
+font-size: 13.6px;
+font-weight: 400;
+line-height: 20.4px;
+color: rgb(112, 112, 112);
+}
+

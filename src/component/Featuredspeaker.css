@@ -1,0 +1,16 @@
+.featuredspeaker
+{
+background-image: url(../Images/manbg.png);
+background-repeat: no-repeat;
+background-size: cover;
+opacity: 1px;
+}
+
+
+.sector4 h2{
+    font-family: Inter, sans-serif;
+font-size: 56px;
+font-weight: 600;
+line-height: 67.2px;
+color: rgb(51, 51, 105);
+}
