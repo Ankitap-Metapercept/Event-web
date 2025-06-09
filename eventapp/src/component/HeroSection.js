@@ -4,7 +4,7 @@ import './HeroSection.css';
 
 export default function HeroSection() {
   return (
-   <div className='HeroSection'>
+   <section className='HeroSection pt-10 pb-0'>
     <div className='container py-5 '>
     <div className='row'>
     <div className='col-12 col-md-6 '>
@@ -22,7 +22,19 @@ export default function HeroSection() {
     </div>
   </div>
 </div>
-   </div>
+    {/* <div className='container'>
+      <div className='banner-in pt-6'>
+        <div className='row align-items-end'>
+          <div className='col-lg-7 mb-10'>
+            <div className='banner-context text-lg-start text-center'>
+              <h4>big events 2024</h4>
+              <div className='selector4 display-content-center'></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> */}
+   </section>
 
   );
 }

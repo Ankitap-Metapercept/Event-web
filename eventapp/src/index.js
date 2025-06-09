@@ -5,6 +5,16 @@ import Header from './component/Header';
 import HeroSection from './component/HeroSection';
 import Seminars from './component/Seminars';
 import Event from './component/Event';
+import Speaker from './component/Speaker';
+import Footer from './component/Footer';
+import Pricing from './component/Pricing';
+import Gallary from './component/Gallary';
+import Testimonials from './component/Testimonials';
+import Partners from './component/Partners';
+import Articles from './component/Articles';
+import Location from './component/Location';
+
+
 import Upcomingworkshop from './component/Upcomingworkshop';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
@@ -18,10 +28,21 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <Header/>
-     <HeroSection/> 
-     <Event/>
+      <HeroSection/> 
+    <Event/>
      <Seminars/>
      <Upcomingworkshop/>
+     <Pricing/>
+     <Gallary/>
+     <Testimonials/>
+     <Partners/> 
+     <Articles/>
+     <Location/>
+     <Footer/>
+
+    
+     
+
     
   </React.StrictMode>
 );

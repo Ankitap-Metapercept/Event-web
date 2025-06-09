@@ -22,7 +22,7 @@ color: rgb(51, 51, 105);
     background-color:rgb(248, 102, 158); 
     color: white;
     border: none;
-    font-family: Poppins, sans-serif;
+font-family: Poppins, sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
@@ -41,14 +41,14 @@ color: rgb(248, 102, 158);
 
 .card h3{
 font-family: Inter, sans-serif;
-font-size: 21px;
+font-size: 25px;
 font-weight: 600;
 
 color: rgb(51, 51, 105);
 }
 .card p{
     font-family: Poppins, sans-serif;
-font-size: 16px;
+font-size: 20px;
 font-weight: 400;
 line-height: 24px;
 color: rgb(112, 112, 112);
@@ -57,8 +57,18 @@ color: rgb(112, 112, 112);
 .card2
 {
     padding-top: 200px;
+    
+
 }
 .card-3
 {
-    padding-top: 5px;
+  margin-top: -90px;
+  
+}
+
+.icon 
+{
+    margin-top: 5px;
+    color: rgb(248, 102, 158);
+    
 }

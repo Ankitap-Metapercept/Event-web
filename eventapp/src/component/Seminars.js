@@ -32,7 +32,7 @@ export default function Seminars() {
      </div>
    </div>
 
-   <div className='sub-section pt-5'>
+   <div className='sub-section pt-5 pb-5'>
     <div className='container'>
         <div className='row'>
             <div className='col-12 col-md-4 col-lg-3 text-center'>
